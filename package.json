@@ -1,11 +1,16 @@
 {
-	"displayName": "Custom NUnit",
-	"name": "com.unity.ext.nunit",
-	"version": "0.1.6-preview",
-	"unity": "2019.1",
-	"description": "Custom Nunit build to work with Unity",
-	"keywords": ["nunit", "unittest", "test"],
-	"category": "Libraries",
-	"dependencies": {
-	}
+  "displayName": "Custom NUnit",
+  "name": "com.unity.ext.nunit",
+  "version": "0.1.9-preview",
+  "unity": "2019.1",
+  "description": "Custom Nunit build to work with Unity",
+  "keywords": ["nunit", "unittest", "test"],
+  "category": "Libraries",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.cds.internal.unity3d.com/upm-packages/core/com.unity.ext.nunit.git",
+    "revision": "c5122b79a945b2bf34a3fd2f92092fe93270c3d2"
+  }, 
+  "dependencies": {
+  }
 }
