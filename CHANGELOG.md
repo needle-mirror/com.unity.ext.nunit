@@ -1,10 +1,19 @@
 # Changelog
-All notable changes to this package will be documented in this file.
+## [1.0.5] - 2020-11-04
+- Removed pdb files
+  
+## [1.0.4] - 2020-11-03
+- Added the portable-pdb (DSTR-37)
+  
+## [1.0.3] - 2020-10-30
+- Fixed being able to load mdb or portable-pdb symbolsbug (DSTR-37)
+- Minimum unity version updated (case 1279253)
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+## [1.0.2] - 2019-12-04
 
-## [1.0.0] - 2019-02-21
+- Added missed metafiles
+
+## [0.0.1] - 2019-02-21
 
 ### This is the first release of *Unity Package com.unity.ext.nunit*.
 
