@@ -1,4 +1,6 @@
 # Changelog
+## [1.0.6] - 2020-11-30
+- isExplicitlyReferenced set to 0 (case 1296162)
 ## [1.0.5] - 2020-11-04
 - Removed pdb files
   
