@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.3] - 2022-05-31
+- Added unique test ID for repeated tests
+- Added ContainKey and ContainValue constaints for dictionaries
+- Fixed unexpected null exception when using EmptyConstraint with a null object
+
 ## [2.0.2] - 2021-10-19
 - STAR reviews updates.
 
