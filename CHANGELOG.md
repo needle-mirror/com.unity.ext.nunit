@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.0.4] - 2023-06-21
+- Added support for InstanceID as struct changes
+
 ## [2.0.3] - 2022-05-31
 - Added unique test ID for repeated tests
 - Added ContainKey and ContainValue constaints for dictionaries
